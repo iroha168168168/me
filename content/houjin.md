@@ -6,8 +6,8 @@ title: 名刺
 
 相談支援専門員
 
-[📞 電話する](tel:07094441680)
+[電話](tel:07094441680)
 
-[✉️ メールする](mailto:168.desu@proton.me)
+[メール](mailto:168.desu@proton.me)
 
-[🌐 ホームページ](https://iroha168168168.github.io/soudan/)
+[ホームページ](https://iroha168168168.github.io/soudan/)
