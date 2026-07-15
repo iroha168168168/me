@@ -12,4 +12,4 @@ title: 名刺
 
 [メール](mailto:168.desu@proton.me)
 
-[ホームページ](https://iroha168168168.github.io/soudan/)
+[Web](https://iroha168168168.github.io/me/)
